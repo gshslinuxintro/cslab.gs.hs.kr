@@ -13,7 +13,9 @@ favicon: /assets/favicon.png
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
-
+github:
+  repo: gshslinuxintro/cslab.gs.hs.kr
+  branch: master
 # Destination
 destination: /var/www/html
 paginate: 5
