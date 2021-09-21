@@ -1,7 +1,7 @@
 ---
 layout: page
-title: IamCoder 39.5th Selection Exam
-subtitle: "The contest will start at: TBA"
+title: GSHS CSLAB
+subtitle: "The 40th IamCoder Selection Exam Will Start At: TBA"
 hero_height: is-large
 hero_image: /assets/img/gshs_src.jpg
 hero_link: http:cws
