@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "협회 사이트 오픈"
+date:   2021-09-15 00:50:06
+categories: development
+description: "협회 사이트가 오픈되었습니다. 공지사항, 서버 정보, 설명서 등을 이용하실 수 있습니다."
+image: 'https://www.csrhymes.com//img/static-site-generator.jpg'
+published: true
+---
+
+## 협회 사이트 오픈
+이제 공지사항, 서버 정보, 설명서 등을 이용하실 수 있습니다.

@@ -1,0 +1,20 @@
+- label: Contest Management System
+  items:
+    - name: CMS Docs
+      items:
+        - name: Introduction
+          link: /docs/cms/1-introduction/
+        - name: Installation
+          link: /docs/cms/2-installation/
+        - name: Running CMS
+          link: /docs/cms/3-running_cms/
+        - name: Configuring Contests(TBA)
+          link: /docs/cms/4-contest_config/
+        - name: Configuring Tasks(TBA)
+          link: /docs/cms/5-task_config/
+        - name: Configuring Users(TBA)
+          link: /docs/cms/6-user_config/
+        - name: Configuring Testdatas(TBA)
+          link: /docs/cms/7-testdata_config/
+        - name: Configuring Nginx
+          link: /docs/cms/8-nginx_config/

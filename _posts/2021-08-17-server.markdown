@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "서버 초기화 완료"
+date:   2021-08-17 00:50:06
+categories: development
+description: "서버 초기화 완료"
+image: 'https://www.csrhymes.com//img/static-site-generator.jpg'
+published: true
+---
+
+## 서버 초기화 완료
+이제 쾌적한 연구가 가능합니다.
