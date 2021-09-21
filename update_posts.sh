@@ -10,4 +10,4 @@ echo Updating posts and website...
 cd /var/www/source
 git fetch --all
 git reset --hard $($find_upstream $($find_branch))
-jekyll build
+bundle exec jekyll build
