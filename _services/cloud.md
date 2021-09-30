@@ -10,4 +10,6 @@ price: Anyone
 ---
 [Cloud](http:cloud)
 
-# UNDER CONSTRUCTION
+# GSHS CLOUD
+교내망에서만 사용 가능합니다.
+[Cloud](http://cslab.gs.hs.kr:24001)
