@@ -17,9 +17,9 @@ hide_footer: true
 
 경기과학고등학교 정보과학부에 오신 것을 환영합니다.
 
-### [Contest Managment System](http:services/cms/)
+### [Cloud](http:services/cloud/)
 
-IOI의 공식 대회 시스템인 CMS를 사용할 수 있습니다.
+학교 내부망에서는 GSHS CLOUD를 사용할 수 있습니다.
 
 ### [Server/Linux Society](https://github.com/gshslinuxintro/)
 
@@ -29,9 +29,9 @@ IOI의 공식 대회 시스템인 CMS를 사용할 수 있습니다.
 * 연구용 서버 설명서(호스팅 예정)
 * 개발용 서버 설명서(호스팅 예정)
 
-### [Contest Managment System](http:services/cloud/)
+### [Contest Managment System](http:services/cms/)
 
-학교 내부망에서는 GSHS CLOUD를 사용할 수 있습니다.
+IOI의 공식 대회 시스템인 CMS를 사용할 수 있습니다.
 
 ### [Status](http:services/status/)
 
