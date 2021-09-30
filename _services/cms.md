@@ -16,4 +16,4 @@ features:
       icon: fa-location-arrow
 ---
 
-[CMS-DEV Documentation](https:docs/cms/1-introduction)
+[CMS-DEV Documentation](http:docs/cms/1-introduction)
