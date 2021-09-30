@@ -17,10 +17,6 @@ hide_footer: true
 
 경기과학고등학교 정보과학부에 오신 것을 환영합니다.
 
-### [Status](http:services/status/)
-
-서버의 `CPU`, `RAM`, `GPU` 사용량을 실시간으로 확인할 수 있습니다.
-
 ### [Contest Managment System](http:services/cms/)
 
 IOI의 공식 대회 시스템인 CMS를 사용할 수 있습니다.
@@ -32,6 +28,15 @@ IOI의 공식 대회 시스템인 CMS를 사용할 수 있습니다.
 * [설명서 저장소](https://github.com/gshslinuxintro/An-Introduction-to-Linux)
 * 연구용 서버 설명서(호스팅 예정)
 * 개발용 서버 설명서(호스팅 예정)
+
+### [Contest Managment System](http:services/cloud/)
+
+학교 내부망에서는 GSHS CLOUD를 사용할 수 있습니다.
+
+### [Status](http:services/status/)
+
+서버의 `CPU`, `RAM`, `GPU` 사용량을 실시간으로 확인할 수 있습니다.
+
 
 # Supported By GSHS
 
