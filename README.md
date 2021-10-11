@@ -1,16 +1,15 @@
 
-## 개요
+# cslab.gs.hs.kr 개요
 경기과학고등학교 레이텍 협회 사이트 저장소입니다. http://cslab.gs.hs.kr/ 에서 만나볼 수 있습니다.
 
 서버에 관한 정보는 [Wiki](https://github.com/gshslinuxintro/cslab.gs.hs.kr/wiki)에서 확인 가능합니다.
 
-# 제공 서비스
+## 제공 서비스
 * CMS(Contest Management System)
 * Status
 * Docs (서버, 연구, CMS 설명서)
 * Cloud (교내망)
 
-# cslab.gs.hs.kr
 ## 설치
 이 사이트는 Jekyll을 이용하여 구동됩니다. local 환경에서 운영하려는 경우 다음 과정을 통해 운영할 수 있습니다.
 ### 저장소 복제
