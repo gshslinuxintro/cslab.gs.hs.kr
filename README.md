@@ -22,7 +22,7 @@ mv cslab.gs.hs.kr /var/www/source
 sudo apt-get install ruby-dev gcc make php build-essential nginx-full
 ```
 ### nginx 설정
-미리 준비된 conf 파일이 있긴 하지만, 직접 작업하는 것을 추천합니다.
+아래 파일에서 포트 번호, hostname 등을 적합하게 수정하시면 됩니다.
 ```
 cp /var/www/source/nginx/cms.conf /etc/nginx/conf.d/cms.conf
 ```
