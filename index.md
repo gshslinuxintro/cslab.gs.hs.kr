@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GSHS CSLAB
+title: GSHS CSLAB / 경기과학고등학교 리눅스회사용자협회
 subtitle: "The 40th IamCoder Selection Exam Will Start At: TBA"
 hero_height: is-large
 hero_image: /assets/img/gshs_src.jpg
