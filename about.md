@@ -7,6 +7,22 @@ hide_hero: true
 show_sidebar: false
 hide_footer: true
 ---
+# Basic Info
+
+이 서버는 경기과학고등학교의 연구용 서버입니다.
+
+# Admins
+
+## 관리자
+- 2020.3.1 - 현재 : 37기 권준우 (gs19007, @junukwon7)
+
+## GM 부장
+- 2021.3.1. - 현재 : 37기 노현서 (gs19032, @serverrepairman)
+
+## 지도교사
+- 2021.3.1. - 현재 : 박종화 (@suakii)
+
+
 # Server Information
 Re-deployed in 2021.08.17.
 ## Server architecture
