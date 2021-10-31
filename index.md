@@ -38,17 +38,11 @@ IOI의 공식 대회 시스템인 CMS를 사용할 수 있습니다.
 서버의 `CPU`, `RAM`, `GPU` 사용량을 실시간으로 확인할 수 있습니다.
 
 
-# Supported By GSHS
+# [Cloud](http:about/)
 
 본 협회와 서버는 경기과학고등학교 학생들과 GM 봉사동아리에 의해 운영되고 관리됩니다.
 
 [경기과학고등학교 리눅스 사용자협회 오픈채팅방](https://open.kakao.com/o/gckg4Jid)
-
-
-## Contacts
-* 서버 관리자 19007 권준우
-* GM 모둠장 19032 노현서
-
 
 \\
 <!--
