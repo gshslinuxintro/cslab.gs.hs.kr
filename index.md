@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GSHS CSLAB / 경기과학고등학교 리눅스회사용자협회
+title: GSHS CSLAB / 경기과학고등학교 리눅스 사용자협회
 subtitle: "The 40th IamCoder Selection Exam Will Start At: TBA"
 hero_height: is-large
 hero_image: /assets/img/gshs_src.jpg
@@ -41,6 +41,8 @@ IOI의 공식 대회 시스템인 CMS를 사용할 수 있습니다.
 # Supported By GSHS
 
 본 협회와 서버는 경기과학고등학교 학생들과 GM 봉사동아리에 의해 운영되고 관리됩니다.
+
+[경기과학고등학교 리눅스 사용자협회 오픈채팅방](https://open.kakao.com/o/gckg4Jid)
 
 
 
