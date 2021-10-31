@@ -25,6 +25,7 @@ hide_footer: true
 
 본 협회는 서버, 리눅스를 처음 접하는 학생들을 위한 설명서들을 제공합니다.
 
+* [설명서 읽기/다운로드](https://www.overleaf.com/read/dyfnsffzsnvq)
 * [설명서 저장소](https://github.com/gshslinuxintro/An-Introduction-to-Linux)
 * 연구용 서버 설명서(호스팅 예정)
 * 개발용 서버 설명서(호스팅 예정)
@@ -38,7 +39,7 @@ IOI의 공식 대회 시스템인 CMS를 사용할 수 있습니다.
 서버의 `CPU`, `RAM`, `GPU` 사용량을 실시간으로 확인할 수 있습니다.
 
 
-# [Cloud](http:about/)
+# [About](http:about/)
 
 본 협회와 서버는 경기과학고등학교 학생들과 GM 봉사동아리에 의해 운영되고 관리됩니다.
 
