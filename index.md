@@ -38,7 +38,7 @@ IOI의 공식 대회 시스템인 CMS를 사용할 수 있습니다.
 
 서버의 `CPU`, `RAM`, `GPU` 사용량을 실시간으로 확인할 수 있습니다.
 
-### [Remote Desktop](http:services//)
+### [Remote Desktop](http:services/rdp/)
 
 서버의 GUI 환경을 이용할 수 있습니다.
 
