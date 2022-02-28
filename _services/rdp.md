@@ -6,7 +6,7 @@ description: For remote GUI Access
 product_code: RDP_CSLAB1
 layout: services
 image: https://guacamole.apache.org/doc/0.8.3/images/connection-list.png
-price: Anyone
+price: GSHS
 features:
     - label: RDP
       icon: fa-location-arrow
@@ -16,4 +16,4 @@ features:
       icon: fa-location-arrow
 ---
 
-[CMS-DEV Documentation](http://cslab.gs.hs.kr/rdp/)
+[Remote Desktop](http://cslab.gs.hs.kr/rdp/)
