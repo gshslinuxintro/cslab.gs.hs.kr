@@ -24,7 +24,7 @@ sudo apt-get install ruby-dev gcc make php build-essential nginx-full
 ### nginx 설정
 아래 파일에서 포트 번호, hostname 등을 적합하게 수정하시면 됩니다.
 ```
-cp /var/www/source/nginx/cms.conf /etc/nginx/conf.d/cms.conf
+cp /var/www/source/nginx/cslab_nginx.conf /etc/nginx/conf.d/cslab_nginx.conf
 ```
 ### Jekyll 설치
 ```
