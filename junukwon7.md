@@ -13,7 +13,8 @@ hide_footer: true
 
 2019년부터 2022년 초까지 경기과학고등학교의 연구용 서버와 텍 사용자협회 서버를 관리했습니다.
 
-현재 서울대학교 자유전공학부에 재학중이며, 작은 회사에서 Software Engineer로 일하고 있습니다.
+현재 서울대학교 자유전공학부에 재학중이며, [FriendliAi](https://friendli.ai/)에서 MLOps Engineer로 일하고 있습니다.
+
 
 # Hello, 안녕하세요 👋
 
@@ -26,11 +27,12 @@ Visit me at [cslab.gs.hs.kr](http://cslab.gs.hs.kr/junukwon7)!
 
 Education
 ---
-* 2019.3.2. ~ 2022.1.7.&#160;&#160;&#160;&#160;Gyeonggi Science High School　　　　　　　　
-* 2022.3.2. ~ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;College of Liberal Studies, Seoul National University　　　　　　　　　　　　
+* 2022.3.2. ~ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;College of Liberal Studies, Seoul National University　　　　　
+* 2019.3.2. ~ 2022.1.7.&#160;&#160;&#160;&#160;Gyeonggi Science High School　　　　　　　
 
 Works
 ---
+* MLOps Engineer at [FriendliAi](https://friendli.ai/)
 * Software Engineer at [서울대학교 정보화본부](https://ist.snu.ac.kr/)(Service Contract Worker)
 * [cslab.gs.hs.kr](https://github.com/gshslinuxintro/cslab.gs.hs.kr), GSHS Research Server / Linux User Group page
 * [PyTorch-YOLOv3](https://github.com/junukwon7/PyTorch-YOLOv3), Graduation thesis code
@@ -48,6 +50,7 @@ Works
 
 Groups
 ---
+* [SNUCSE Bacchus](https://github.com/bacchus-snu)
 * [GSHS Latex Intro](https://github.com/gshslatexintro)
 * [GSHS Linux Intro](https://github.com/gshslinuxintro)
 * [GSHS OJ(New Koistudy)](https://github.com/gshsoj)
@@ -59,3 +62,4 @@ Groups
 [![Junu Kwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junukwon7)](https://github.com/junukwon7)
 
 Contact me at: [junukwon7@gmail.com](mailto:junukwon7@gmail.com)
+
