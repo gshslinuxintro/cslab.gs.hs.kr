@@ -15,14 +15,14 @@ hide_footer: true
 
 현재 서울대학교 자유전공학부에 재학중이며, [FriendliAi](https://friendli.ai/)에서 MLOps Engineer로 일하고 있습니다.
 
+Visit [cslab](http://cslab.or.kr/junukwon7)!
+
 
 # Hello, 안녕하세요 👋
 
 My name is JUNU KWON / 권준우. Call me Junu.
 
 Currently working on Neural Network Compression, Computer Vision, and Algorithm(PS)
-
-Visit me at [cslab.gs.hs.kr](http://cslab.gs.hs.kr/junukwon7)!
 
 
 Education
