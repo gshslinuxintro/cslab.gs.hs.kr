@@ -6,6 +6,7 @@ layout: page
 hide_hero: true
 show_sidebar: false
 hide_footer: true
+redirect_to: https://cslab.or.kr/junukwon7
 ---
 # Basic Info
 
@@ -13,9 +14,9 @@ hide_footer: true
 
 2019년부터 2022년 초까지 경기과학고등학교의 연구용 서버와 텍 사용자협회 서버를 관리했습니다.
 
-현재 서울대학교 자유전공학부에 재학중이며, [FriendliAi](https://friendli.ai/)에서 MLOps Engineer로 일하고 있습니다.
+현재 서울대학교 자유전공학부에 재학중이며, [FriendliAi](https://friendli.ai/)에서 DevOps Engineer로 일하고 있습니다.
 
-Visit [cslab](http://cslab.or.kr/junukwon7)!
+제 프로필은 [여기서](http://cslab.or.kr/junukwon7) 확인하실 수 있습니다!
 
 
 # Hello, 안녕하세요 👋
